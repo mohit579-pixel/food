@@ -1,0 +1,17 @@
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  height: 200px;
+  width: 200px;
+  justify-content: space-between;
+}
+body{
+  display: flex;
+  background-color: black;
+  /* align-content: center; */
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+  color: aliceblue;
+}
